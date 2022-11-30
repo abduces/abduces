@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AstroidDev
+- 👋 Hi, I’m @ggwix
 - 👀 I’m interested in Java
 - 🌱 I’m currently improving my Javascript and PHP knowledge
 - 📫 How to reach me N/A currently
