@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ggwix
+- 👋 Hi, I’m @abduces
 - 👀 I’m interested in Java
 - 🌱 I’m currently improving my Javascript and PHP knowledge
 - 📫 How to reach me N/A currently
