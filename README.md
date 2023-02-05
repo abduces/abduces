@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @abduces
-- 👀 I’m interested in Java
-- 🌱 I’m currently improving my Javascript and PHP knowledge
-- 📫 How to reach me N/A currently
+- 👀 I’m interested in vLang
+- 🌱 I’m currently improving my knowledge in Java and CSharp
+- 📫 How to reach me: abduces#9055
